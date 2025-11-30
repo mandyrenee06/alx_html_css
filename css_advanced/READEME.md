@@ -16,8 +16,4 @@ Fonts
 
 Use the fonts specified in the Figma file. If a font is missing, link a webfont alternative.
 
-How to run
 
-Open index.html in any browser.
-
-Next: building index.html.
